@@ -13,7 +13,4 @@
         <item>Grad Ph.D.</item>
     </string-array>
 
-    <color name="spinner_background_color">#AAAAAA</color>
-    <color name="spinner_popupBackground_color">#FFFFFF</color>
-
 </resources>
